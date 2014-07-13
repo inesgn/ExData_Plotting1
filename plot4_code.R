@@ -1,6 +1,6 @@
 # Exploratory Data Analysis
-# Assignment 1, part 1/4
-# Code for creating plot #1
+# Assignment 1, part 4/4
+# Code for creating plot #4
 #
 #### Reading data
 # set working directory
